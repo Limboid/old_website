@@ -1,1 +1,0 @@
-showdown makehtml -i README.md -o index.html
