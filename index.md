@@ -1,6 +1,6 @@
 # Limboid
 
-  Surpassing state-of-the-art consumer robots. A physically and intellectually comparable reflection of humans. An independant machine directed by its own general purpose artificial intelligence. Prepare to welcome the limboid.
+> Surpassing state-of-the-art consumer robots. A physically and intellectually comparable reflection of humans. An independant machine directed by its own general purpose artificial intelligence. Prepare to welcome the limboid.
 
 ## Surpassing State-of-the-Art Consumer Robots
 
@@ -30,31 +30,31 @@ We do not, however, teach limboids that their individual or collective continuit
 
 These are ambitious goals. However, many parts are still in development:
 
-[ ] Design systems
-	[ ] Skeletal System
-	[ ] Muscular System
-	[ ] Hydraulic System
-	[ ] Power System
-	[ ] Signal System
-	[ ] Control System
-	[ ] Integumentary System
-[ ] Produce limboid
-[ ] Evaluate performance
+- [ ] Design systems
+	- [ ] Skeletal System
+	- [ ] Muscular System
+	- [ ] Hydraulic System
+	- [ ] Power System
+	- [ ] Signal System
+	- [ ] Control System
+	- [ ] Integumentary System
+- [ ] Produce limboid
+- [ ] Evaluate performance
 
 ## An Open Project
 
-It's no secret that intelligent machines are becoming increasingly prolific, and we want to keep it that way. Our official limboid repository [Limboid/Limboid](https://github.com/Limboid/Limboid) is the host of version controlled designs, and issue discussions. Updates are regularly posted on our [video channel](https://www.youtube.com/channel/UCtGRZvnkru55IcFrqKJbmoA/featured).
+It's no secret that intelligent machines are becoming increasingly prolific, and we want to keep it that way. Our official github repository [Limboid/Limboid](https://github.com/Limboid/Limboid) is the host of version controlled designs, and issue discussions. Updates are regularly posted on our [video channel](https://www.youtube.com/channel/UCtGRZvnkru55IcFrqKJbmoA/featured).
 
-Further, we are inviting all engineers, scientists, and researchers to join us in this project by applying to [join our team](mailto://jacob.valdez@limboid.ai) or just contributing to the design repository.
+Further, we are inviting all engineers, scientists, and researchers to join us in this project by applying to [join our team](mailto:jacob.valdez@limboid.ai) or just contributing to the design repository.
 
 [Go to Designs](https://github.com/Limboid/Limboid)
 
 ## Thank You!
 
-Thank you for your support. Whether you're able to join our team, make design contributions, or simply able to [donate](paypal.me/Limboid), your help is much appreciated.
+Thank you for your support. Whether you're able to join our team, make design contributions, or simply able to [donate](https://paypal.me/Limboid), your help is much appreciated.
 
 ## Contact
 
-Feel free to message us at [hello@limboid.ai]().
+Feel free to message us at [hello@limboid.ai](mailto:hello@limboid.ai).
 
 <sub><sub><sub>copyright &copy; 2019 Limboid LLC. Limboid LLC disclaims all responsibility for any problems associated with this site.</sub></sub></sub>
