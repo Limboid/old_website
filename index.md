@@ -31,14 +31,23 @@ We do not, however, teach limboids that their individual or collective continuit
 These are ambitious goals. However, many parts are still in development:
 
 - [ ] Design systems
+
 	- [ ] Skeletal System
+	
 	- [ ] Muscular System
+	
 	- [ ] Hydraulic System
+	
 	- [ ] Power System
+	
 	- [ ] Signal System
+	
 	- [ ] Control System
+	
 	- [ ] Integumentary System
+	
 - [ ] Produce limboid
+
 - [ ] Evaluate performance
 
 ## An Open Project
