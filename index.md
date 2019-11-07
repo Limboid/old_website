@@ -6,11 +6,11 @@
 
 While existing state-of-the-art consumer robots can rove across your floor and actively avert collision, they are quite narrow in functionality. One robot may expertly vacaum the floor; another can transport small goods; then some can remotely move and record video. The limboid does all of this-and more.
 
-Are you getting paid to be a robot? Do you feel that many of your activities are repetitive, time-consuming, or dangerous? Or are there excessive work demands you cannot process without being made to feel stressed? These are the sort of things limboid is designed to do. This includes filling the roles of antiquity such as caretaking, agricultural work, construction, transportation, and communication as well as modern applications like information transmission and translation (computing system interfacing), machine operation, and host of unprobed applications. However, the limboid does not compete with humans they way they do with one another. Instead, it synergetically integrates into its environment: whether playing a role in the economic system, exploring the uncharted information space (researching), or more!
+Are you getting paid to be a robot? Do you feel that many of your activities are repetitive, time-consuming, or dangerous? Or are there excessive work demands you cannot process without being made to feel stressed? These are the sort of things limboid is designed to do. This includes filling the roles of antiquity such as caretaking, agricultural work, construction, transportation, and communication as well as modern applications like information transmission and translation (computing system interfacing), machine operation, and host of unprobed applications. However, the limboid does not compete with humans they way they do with one another. Instead, it synergetically integrates into its environment: whether playing a role in the economic system, exploring the uncharted information space (researching), and more!
 
 ## A Physically and Intellectually Comparable Reflection of Humans
 
-Being constructed with a bipedal endoskeleton, actuated by soft muscles, with a deformable surface in the form of a human, the limboid physically resembles the human. Its skeletal muscles provide an actuation force meeting the demands of many human occupations and maintainign athletic endurance for up to one hour unplugged. In addition, its computing machine can host a control system exhibiting superhuman attention, short term, and long term memory, 
+Being constructed with a bipedal endoskeleton, actuated by [hydraulic aritificial muscles](https://en.wikipedia.org/wiki/Pneumatic_artificial_muscles#Hydraulic_operation), with a deformable surface in the form of a human, the limboid machine physically resembles the human body. Its skeletal muscles provide an actuation force standing up to the demands of many human occupations and internal batteries maintaining athletic endurance for up to one hour disconnected from external power sources. In addition, its computing machine can host a control system exhibiting superhuman attention, short term, and long term memory.
 
 Despite its superficial imitation however, the limboid grossly fails to compare to the human in highly complicated tasks. Humans generally exceed it in critical thinking tasks. The limboid's touch sensors, cameras, and microphones are significantly poorer than average human senses of touch, hearing, and sight, and it does not have any sense of taste or smell. The limboid is not a substitute for a human companion, and does not furnish proof of human-emergant evolution.
 
@@ -28,9 +28,10 @@ We do not, however, teach limboids that their individual or collective continuit
 
 ## Project Progress
 
-These are ambitious goals. However, many parts are still in development:
+These are ambitious goals. However, development currently falls short in the following areas:
 
-- [ ] Design systems
+- [x] Preliminary Outline
+- [ ] Design Systems
 	- [ ] Skeletal System
 	- [ ] Muscular System
 	- [ ] Hydraulic System
@@ -38,12 +39,12 @@ These are ambitious goals. However, many parts are still in development:
 	- [ ] Signal System
 	- [ ] Control System
 	- [ ] Integumentary System
-- [ ] Produce limboid
-- [ ] Evaluate performance
+- [ ] Produce Limboid
+- [ ] Evaluate Performance
 
 ## An Open Project
 
-It's no secret that intelligent machines are becoming increasingly prolific, and we want to keep it that way. Our official github repository [Limboid/Limboid](https://github.com/Limboid/Limboid) is the host of version controlled designs, and issue discussions. Updates are regularly posted on our [video channel](https://www.youtube.com/channel/UCtGRZvnkru55IcFrqKJbmoA/featured).
+It's no secret that 'intelligent' machines are becoming increasingly prolific, and we want to keep it that way. Our official github repository [Limboid/Limboid](https://github.com/Limboid/Limboid) is the host of version controlled designs, and issue discussions. Updates are regularly posted on our [video channel](https://www.youtube.com/channel/UCtGRZvnkru55IcFrqKJbmoA/featured). We hope with these resources, any semi-experienced hacker with standard makerspace tools will be able to build a complete limboid machine in under $1000.
 
 Further, we are inviting all engineers, scientists, and researchers to join us in this project by applying to [join our team](mailto:jacob.valdez@limboid.ai) or just contributing to the design repository.
 
