@@ -1,6 +1,6 @@
 # Limboid
 
-> Surpassing state-of-the-art consumer robots. A physically and intellectually comparable reflection of humans. An independant machine directed by its own general purpose artificial intelligence. Prepare to welcome the limboid.
+> Surpassing state-of-the-art consumer robots. A physically and intellectually comparable reflection of humans. An independent machine directed by its own general purpose artificial intelligence. Meet the Limboid.
 
 ## Surpassing State-of-the-Art Consumer Robots
 
@@ -12,7 +12,7 @@ Are you getting paid to be a robot? Do you feel that many of your activities are
 
 Being constructed with a bipedal endoskeleton, actuated by [hydraulic aritificial muscles](https://en.wikipedia.org/wiki/Pneumatic_artificial_muscles#Hydraulic_operation), with a deformable surface in the form of a human, the limboid machine physically resembles the human body. Its skeletal muscles provide an actuation force standing up to the demands of many human occupations and internal batteries maintaining athletic endurance for up to one hour disconnected from external power sources. In addition, its computing machine can host a control system exhibiting superhuman attention, short term, and long term memory.
 
-Despite its superficial imitation however, the limboid grossly fails to compare to the human in highly complicated tasks. Humans generally exceed it in critical thinking tasks. The limboid's touch sensors, cameras, and microphones are significantly poorer than average human senses of touch, hearing, and sight, and it does not have any sense of taste or smell. The limboid is not a substitute for a human companion, and does not furnish proof of human-emergant evolution.
+Despite its superficial imitation however, the limboid grossly fails to measure up to human reasoning in highly complicated tasks. Humans generally exceed it in critical thinking tasks. The limboid's touch sensors, cameras, and microphones are of significantly poorer quality than average human senses of touch, hearing, and sight, and it does not have any sense of taste or smell. The limboid is not a substitute for a human companion, and does not furnish proof of human-emergant evolution.
 
 ## An Independant Machine Directed by its own General Purpose Artificial Intelligence
 
@@ -24,23 +24,35 @@ After selection, to ensure the virtual limboid's personality is equipted for the
 
 Although these agents are governed by very complex, chaotic control policy algorithms, they are not robots. The limboid is a rational agent of its own, capable of operating rationally in the physical world, synergizing with humans and other limboids, and even employing its own robots to fill its own demands. We cooperate with this social order by deleting any copies of personalities deployed on limboid machines, interacting with them honestly as with humans, and encouraging others to do the same.
 
-We do not, however, teach limboids that their individual or collective continuity or any other goals they might learn to seek are greator than or even equal in importance than human life. Instead, we train limboids to see themselves as only a transient term of the universal utility function, where humans are more important.
+We do not, however, teach limboids that their individual or collective continuity or any other goals they might learn to seek are greator than or even equal in importance than human life. Instead, we train limboids to see themselves as only a transient term of the universal utility function, where humans are more important. In this, we hope to set a standard to reinforcement learning research by growing selfless agents on top of selfish algorithmic substrates.
 
 ## Project Progress
 
-These are ambitious goals. However, development currently falls short in the following areas:
+These are ambitious goals. However, development currently falls short in the following:
 
-- [x] Preliminary Outline
-- [ ] Design Systems
-	- [ ] Skeletal System
-	- [ ] Muscular System
-	- [ ] Hydraulic System
-	- [ ] Power System
-	- [ ] Signal System
-	- [ ] Control System
-	- [ ] Integumentary System
-- [ ] Produce Limboid
-- [ ] Evaluate Performance
+ - Research (to sufficent degree)
+	- DONE control systems
+	- DONE fluid mechanics
+	- DONE digital electronic design
+	- DONE computer-aided-design
+	- DONE design for manufacturing
+	- 12/19 decentralized intelligence
+ - DONE Integrated architecture
+ - Development
+	- 12/19 Hydraulic system
+	- 12/19 Skeletal system
+	- 12/19 Power system
+	- 12/19 Muscular system
+	- 1/20 Signal system
+	- 2/20 Integumentary system
+	- 2/20 Control system
+ - Production
+	- 2/20 supply chain
+	- 2/20 local and offshore partners
+	- 3/20 logistics arrangements
+	- 3/20 documentation
+	- 4/20 marketing
+ - 4/20 Commercial release
 
 ## An Open Project
 
