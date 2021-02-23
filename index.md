@@ -1,73 +1,13 @@
-# Limboid
+# Limboid AI
 
-> Surpassing state-of-the-art consumer robots. A physically and intellectually comparable reflection of humans. An independent machine directed by its own general purpose artificial intelligence. Meet the Limboid.
 
-## Surpassing State-of-the-Art Consumer Robots
-
-While existing state-of-the-art consumer robots can rove across your floor and actively avert collision, they are quite narrow in functionality. One robot may expertly vacaum the floor; another can transport small goods; then some can remotely move and record video. The limboid does all of this-and more.
-
-Are you getting paid to be a robot? Do you feel that many of your activities are repetitive, time-consuming, or dangerous? Or are there excessive work demands you cannot process without being made to feel stressed? These are the sort of things limboid is designed to do. This includes filling the roles of antiquity such as caretaking, agricultural work, construction, transportation, and communication as well as modern applications like information transmission and translation (computing system interfacing), machine operation, and host of unprobed applications. However, the limboid does not compete with humans they way they do with one another. Instead, it synergetically integrates into its environment: whether playing a role in the economic system, exploring the uncharted information space (researching), and more!
-
-## A Physically and Intellectually Comparable Reflection of Humans
-
-Being constructed with a bipedal endoskeleton, actuated by [hydraulic aritificial muscles](https://en.wikipedia.org/wiki/Pneumatic_artificial_muscles#Hydraulic_operation), with a deformable surface in the form of a human, the limboid machine physically resembles the human body. Its skeletal muscles provide an actuation force standing up to the demands of many human occupations and internal batteries maintaining athletic endurance for up to one hour disconnected from external power sources. In addition, its computing machine can host a control system exhibiting superhuman attention, short term, and long term memory.
-
-Despite its superficial imitation however, the limboid grossly fails to measure up to human reasoning in highly complicated tasks. Humans generally exceed it in critical thinking tasks. The limboid's touch sensors, cameras, and microphones are of significantly poorer quality than average human senses of touch, hearing, and sight, and it does not have any sense of taste or smell. The limboid is not a substitute for a human companion, and does not furnish proof of human-emergant evolution.
-
-## An Independant Machine Directed by its own General Purpose Artificial Intelligence
-
-Rather than mindlessly endowing each limboid an identical copy of the same control system, or personality, we develop and select each personality individually by the artificial selection and recombination of virtual limboid genomes. While allowing for some anatomical variation, these genomes primarily enable a broad variety of personalities to be tested on a set of simulation worlds where virtual limboids have the opportunity to intellectually develop. Some of these simulations additionally measure performance on general tasks such as locomotion, academics, and social interaction as well as domain-specific tasks. However, not all virtual limboids share the same curriculum. Periodically, a selection of the top performing personalities are asexually and sexually combined to add to the personality genome pool while the lowest performers discontinue simulation.
-
-Whenever a limboid genome is requested to produce a limboid, a unique virtual limboid is selected. If 'unbiased', an algorithmic performance comparison selects the general top performing virtual limboid according to our limited simulations. However, the selection may also be biased by weighting selection criterea, defining a custom rating algorithm, or even performing personal qualitative analysis of virtual limboid behavior. Personalities of selected virtual limboids may also be tested on physical limboid machines in a supervised testground.
-
-After selection, to ensure the virtual limboid's personality is equipted for the reigors of real-world interaction, we supervise them as they are simulated facing extreme pressures and monitored for signs of abnormal behavior based on their own simulation history. Only personalities that pass this final test are then uniquely deployed on a custom-built limboid machine according to the physical parameters coded in the virtual limboid genome.
-
-Although these agents are governed by very complex, chaotic control policy algorithms, they are not robots. The limboid is a rational agent of its own, capable of operating rationally in the physical world, synergizing with humans and other limboids, and even employing its own robots to fill its own demands. We cooperate with this social order by deleting any copies of personalities deployed on limboid machines, interacting with them honestly as with humans, and encouraging others to do the same.
-
-We do not, however, teach limboids that their individual or collective continuity or any other goals they might learn to seek are greator than or even equal in importance than human life. Instead, we train limboids to see themselves as only a transient term of the universal utility function, where humans are more important. In this, we hope to set a standard to reinforcement learning research by growing selfless agents on top of selfish algorithmic substrates.
-
-## Project Progress
-
-These are ambitious goals. However, development currently falls short in the following:
-
- - Research (to sufficent degree)
-	- DONE control systems
-	- DONE fluid mechanics
-	- DONE digital electronic design
-	- DONE computer-aided-design
-	- DONE design for manufacturing
-	- 12/19 decentralized intelligence
- - DONE Integrated architecture
- - Development
-	- 12/19 Hydraulic system
-	- 12/19 Skeletal system
-	- 12/19 Power system
-	- 12/19 Muscular system
-	- 1/20 Signal system
-	- 2/20 Integumentary system
-	- 2/20 Control system
- - Production
-	- 2/20 supply chain
-	- 2/20 local and offshore partners
-	- 3/20 logistics arrangements
-	- 3/20 documentation
-	- 4/20 marketing
- - 4/20 Commercial release
-
-## An Open Project
-
-It's no secret that 'intelligent' machines are becoming increasingly prolific, and we want to keep it that way. Our official github repository [Limboid/Limboid](https://github.com/Limboid/Limboid) is the host of version controlled designs, and issue discussions. Updates are regularly posted on our [video channel](https://www.youtube.com/channel/UCtGRZvnkru55IcFrqKJbmoA/featured). We hope with these resources, any semi-experienced hacker with standard makerspace tools will be able to build a complete limboid machine in under $1000.
-
-Further, we are inviting all engineers, scientists, and researchers to join us in this project by applying to [join our team](mailto:jacob.valdez@limboid.ai) or just contributing to the design repository.
-
-[Go to Designs](https://github.com/Limboid/Limboid)
 
 ## Thank You!
 
-Thank you for your support. Whether you're able to join our team, make design contributions, or simply able to [donate](https://paypal.me/Limboid), your help is much appreciated.
+Whether its [joining our team](mailto:jacob.valdez@limboid.ai?subject=Join%20Limboid%20Team&body=Please%20briefly%20introduce%20yourself%20and%20explain%20what%20you%20have%20to%20contribute), [making community contributions](https://github.com/limboid), or simply [donating](https://paypal.me/Limboid), your help is much appreciated.
 
 ## Contact
 
-Feel free to message us at [hello@limboid.ai](mailto:hello@limboid.ai).
+Feel free to message us at [jacob.valdez@limboid.ai](mailto:jacob.valdez@limboid.ai).
 
-<sub><sub><sub>copyright &copy; 2019 Limboid LLC. Limboid LLC disclaims all responsibility for any problems associated with this site.</sub></sub></sub>
+<sub>Copyright &copy; 2021 Limboid LLC</sub>
